@@ -1,0 +1,7 @@
+1234;Hachimi Abdelhadi;Bechar;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img
+4321;HAchimi abdeldjalil;bechar;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img
+2314;Hachimi Fatima;bechar;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img
+4334;jums;unated state of amirican;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img
+8998;kintolas;unated state of amirican;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img
+0990;kilania;unated state of amirican;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img
+11;dadi;bloc c;D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\img

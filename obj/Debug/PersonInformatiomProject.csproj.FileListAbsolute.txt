@@ -1,0 +1,25 @@
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\PersonInformatiomProject.exe.config
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\PersonInformatiomProject.exe
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\PersonInformatiomProject.pdb
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.AssemblyReference.cache
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.SuggestedBindingRedirects.cache
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.frmPersonInformation.resources
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.Properties.Resources.resources
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.GenerateResource.cache
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.CoreCompileInputs.cache
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.exe
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.pdb
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.ShowAllPersons.resources
+D:\cpp project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.ControlInformation.resources
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\PersonInformatiomProject.exe.config
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\PersonInformatiomProject.exe
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\bin\Debug\PersonInformatiomProject.pdb
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.AssemblyReference.cache
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.ControlInformation.resources
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.frmPersonInformation.resources
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.Properties.Resources.resources
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.ShowAllPersons.resources
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.GenerateResource.cache
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.csproj.CoreCompileInputs.cache
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.exe
+D:\cpp_project\DesktopC_sharpProject\PersonInformatiomProject\obj\Debug\PersonInformatiomProject.pdb
